@@ -19,6 +19,7 @@
   - [Interactive touch board](https://github.com/XinrongHan99/Interactive-Touch-Board)
 
 - <b>🔭 I’m currently working on ...</b>
+  - Editor-nxt @ HaRVI lab, a electronJS desktop app that deals with signal processing
 
 <h2> 🤳 Connect with me:</h2>
 
