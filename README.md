@@ -21,6 +21,9 @@
 - <b>🔭 I’m currently working on ...</b>
   - [Editor-nxt](https://github.com/sandeepzgk/editor-next) @ HaRVI lab, a electronJS desktop app that deals with signal processing
 
+- <b>📝 I’m learning ...</b>
+  - [MIT6.824: Distributed System](https://pdos.csail.mit.edu/6.824/index.html)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
