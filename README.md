@@ -1,4 +1,4 @@
-<h1>Hi, I'm Xinrong! <br/><a href="https://www.linkedin.com/in/xinrong-han-525886191/">Software Developer</a> , <a href="https://xinrongs-folio.webflow.io/">UX Designer</a></h1>
+<h1>Hi, I'm Xinrong! <br/> I am a <a href="https://www.linkedin.com/in/xinrong-han-525886191/">Software Developer</a> , and <a href="https://xinrongs-folio.webflow.io/">UX Designer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
