@@ -19,7 +19,7 @@
   - [Interactive touch board](https://github.com/XinrongHan99/Interactive-Touch-Board)
 
 - <b>🔭 I’m currently working on ...</b>
-  - [Editor-nxt](https://github.com/sandeepzgk/editor-next) @ HaRVI lab, a electronJS desktop app that deals with signal processing
+  - [Haptics Flow](https://github.com/sandeepzgk/HapticsFlow/tree/main) @ HaRVI lab, a electronJS desktop app that deals with signal processing
 
 - <b>📝 I’m learning ...</b>
   - [MIT6.824: Distributed System](https://pdos.csail.mit.edu/6.824/index.html)
